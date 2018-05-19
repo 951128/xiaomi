@@ -1154,6 +1154,7 @@ li .dingwei1{
 	height: 100%;
 	margin-left: 14px;
 	float: left;
+	background:#fff;
 	position: relative;
 	transition:all 0.2s 0.2s;
 }
